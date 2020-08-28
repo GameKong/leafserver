@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"github.com/name5566/leaf/log"
 	"io/ioutil"
-	"path/filepath"
-	"os"
+	//"path/filepath"
+	//"os"
 	// "log"
 )
 
@@ -22,8 +22,8 @@ var Server struct {
 }
 
 func init() {
-	dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
-	data, err := ioutil.ReadFile(dir + "/conf/server.json")
+	//dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
+	data, err := ioutil.ReadFile("conf/server.json")
 	if err != nil {
 		log.Fatal("%v", err)
 	}
