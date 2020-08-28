@@ -2,7 +2,7 @@ package conf
 
 import (
 	"encoding/json"
-	"github.com/name5566/leaf/log"
+	"base/leaf/log"
 	"io/ioutil"
 	//"path/filepath"
 	//"os"

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d01623e5-9fde-41e4-9d10-b5b9c4ade562" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/github.com/name5566/leaf/leaf.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/name5566/leaf/leaf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/leaf/leaf.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/leaf/leaf.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server/conf/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/conf/json.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

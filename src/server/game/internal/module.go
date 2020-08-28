@@ -1,10 +1,11 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/module"
+	"base/leaf/module"
 	"server/base"
 )
 
+// 导入模块时就创建了以下对象
 var (
 	skeleton = base.NewSkeleton()
 	ChanRPC  = skeleton.ChanRPCServer

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
+	"base/leaf/gate"
 )
 
 var agents = make(map[gate.Agent]struct{})

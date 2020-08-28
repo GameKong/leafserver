@@ -1,7 +1,7 @@
 package msg
 
 import (
-	"github.com/name5566/leaf/network"
+	"base/leaf/network"
 )
 
 var Processor network.Processor

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
+	"base/leaf/gate"
 	"server/conf"
 	"server/game"
 	"server/msg"
@@ -11,6 +11,7 @@ type Module struct {
 	*gate.Gate
 }
 
+// 初始化Gate配置
 func (m *Module) OnInit() {
 	m.Gate = &gate.Gate{
 		MaxConnNum:      conf.Server.MaxConnNum,

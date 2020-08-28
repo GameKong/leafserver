@@ -3,7 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/GameKong/leafserver" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/github.com/gorilla/websocket" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/github.com/name5566/leaf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/base/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/base/leaf" vcs="Git" />
   </component>
 </project>

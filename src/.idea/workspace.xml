@@ -26,11 +26,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d9a059-e6fd-4c10-a9f5-71833dee2ac0" name="Default Changelist" comment=" 1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/conf/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/conf/json.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/game/internal/chanrpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/game/internal/chanrpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/leaf/leaf.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/leaf/leaf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/leaf/module/module.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/leaf/module/module.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/leaf/module/skeleton.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/leaf/module/skeleton.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/leaf/network/ws_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/leaf/network/ws_server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/game/internal/module.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/game/internal/module.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/gate/internal/module.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/gate/internal/module.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/base/leaf" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -125,18 +127,26 @@
       <screen x="0" y="23" width="1740" height="1097" />
     </state>
     <state x="288" y="48" key="SettingsEditor/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598336294127" />
-    <state x="80" y="175" width="1047" height="861" key="find.popup" timestamp="1598576273967">
-      <screen x="0" y="23" width="1738" height="1097" />
+    <state x="80" y="175" width="740" height="861" key="find.popup" timestamp="1598584861014">
+      <screen x="0" y="23" width="1740" height="1097" />
     </state>
     <state x="80" y="175" width="740" height="861" key="find.popup/0.23.1736.1097/-67.-1057.1920.1057@0.23.1736.1097" timestamp="1598350041150" />
-    <state x="80" y="175" width="1047" height="861" key="find.popup/0.23.1738.1097/-67.-1057.1920.1057@0.23.1738.1097" timestamp="1598576273967" />
-    <state x="80" y="175" width="740" height="861" key="find.popup/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598339958675" />
+    <state x="80" y="175" width="1047" height="861" key="find.popup/0.23.1738.1097/-67.-1057.1920.1057@0.23.1738.1097" timestamp="1598584554762" />
+    <state x="80" y="175" width="740" height="861" key="find.popup/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598584861014" />
+    <state x="382" y="306" width="875" height="663" key="recent.locations.popup" timestamp="1598585364507">
+      <screen x="0" y="23" width="1740" height="1097" />
+    </state>
+    <state x="382" y="306" width="875" height="663" key="recent.locations.popup/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598585364507" />
+    <state x="402" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1598585136525">
+      <screen x="0" y="23" width="1740" height="1097" />
+    </state>
+    <state x="402" y="88" width="838" height="1032" key="search.everywhere.popup/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598585136525" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/github.com/name5566/leaf/network/tcp_conn.go</url>
+          <url>file://$PROJECT_DIR$/base/leaf/network/tcp_conn.go</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
