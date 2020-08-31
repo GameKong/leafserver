@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d01623e5-9fde-41e4-9d10-b5b9c4ade562" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/base/leaf/leaf.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/leaf/leaf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/conf/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/conf/json.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1gZwsi6jmCbw41rqlzat4wfMWmz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,8 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d01623e5-9fde-41e4-9d10-b5b9c4ade562" name="Default Changelist" comment="" />
@@ -34,5 +42,14 @@
       <updated>1598335631474</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="96" key="SettingsEditor" timestamp="1598839463199">
+      <screen x="0" y="23" width="1740" height="1097" />
+    </state>
+    <state x="251" y="96" key="SettingsEditor/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598839463198" />
   </component>
 </project>
