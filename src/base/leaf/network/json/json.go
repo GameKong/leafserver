@@ -40,6 +40,8 @@ func (p *Processor) Register(msg interface{}) string {
 		log.Fatal("json message pointer required")
 	}
 	msgID := msgType.Elem().Name()
+	fmt.Printf("注册监听器msgId: %s\n", msgID)
+
 	if msgID == "" {
 		log.Fatal("unnamed json message")
 	}
@@ -136,7 +138,6 @@ func (p *Processor) Unmarshal(data []byte) (interface{}, error) {
 	if len(m) != 1 {
 		return nil, errors.New("invalid json data")
 	}
-
 	for msgID, data := range m {
 		i, ok := p.msgInfo[msgID]
 		if !ok {
