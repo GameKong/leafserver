@@ -9,8 +9,6 @@ var Processor = protobuf.NewProcessor()
 
 func init() {
 	// 这里我们注册了消息 Hello
-	Processor.Register(&Hello{})
-	Processor.Register(&Hello2{})
-	Processor.Register(&Hello3{})
-	Processor.Register(&Hello4{})
+	Processor.Register(&Sync{}) // id:1
+	Processor.Register(&Broadcast{}) // id:2
 }
