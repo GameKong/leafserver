@@ -23,4 +23,6 @@ func rpcNewAgent(args []interface{}) {
 func rpcCloseAgent(args []interface{}) {
 	a := args[0].(gate.Agent)
 	delete(agents, a)
+
+	Broadcast()
 }
