@@ -22,3 +22,9 @@ func (m *Module) OnInit() {
 func (m *Module) OnDestroy() {
 
 }
+
+func (m *Module) BroadCast(msg string) {
+	for a := range agents {
+		a.WriteMsg(msg)
+	}
+}

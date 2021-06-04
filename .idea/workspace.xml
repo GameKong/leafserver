@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d01623e5-9fde-41e4-9d10-b5b9c4ade562" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/conf/server.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/conf/server.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/darwin_amd64/github.com/name5566/leaf.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/darwin_amd64/github.com/name5566/leaf/conf.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/darwin_amd64/github.com/name5566/leaf/log.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/game/internal/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/game/internal/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/gate/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/gate/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/msg/msg.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/msg/msg.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gZwsi6jmCbw41rqlzat4wfMWmz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build protobuf.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leafserver" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/base/leaf/network/protobuf/protobuf.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build protobuf.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d01623e5-9fde-41e4-9d10-b5b9c4ade562" name="Default Changelist" comment="" />
+      <created>1598335631474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598335631474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="219" width="1079" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598937930769">
+      <screen x="0" y="23" width="1740" height="1097" />
+    </state>
+    <state x="270" y="219" width="1079" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598937930769" />
+    <state x="251" y="96" key="SettingsEditor" timestamp="1598844807470">
+      <screen x="0" y="23" width="1738" height="1097" />
+    </state>
+    <state x="251" y="96" key="SettingsEditor/0.23.1738.1097/-67.-1057.1920.1057@0.23.1738.1097" timestamp="1598844807470" />
+    <state x="251" y="96" key="SettingsEditor/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598839463198" />
+    <state x="480" y="258" width="825" height="574" key="find.popup" timestamp="1598928496364">
+      <screen x="0" y="23" width="1740" height="1097" />
+    </state>
+    <state x="479" y="258" width="746" height="574" key="find.popup/0.23.1738.1097/-67.-1057.1920.1057@0.23.1738.1097" timestamp="1598853335867" />
+    <state x="480" y="258" width="825" height="574" key="find.popup/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598928496364" />
+    <state x="535" y="469" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598866545888">
+      <screen x="0" y="23" width="1740" height="1097" />
+    </state>
+    <state x="535" y="469" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1740.1097/-67.-1057.1920.1057@0.23.1740.1097" timestamp="1598866545888" />
+  </component>
+</project>

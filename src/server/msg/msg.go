@@ -1,14 +1,14 @@
 package msg
 
 import (
-	"base/leaf/network/protobuf"
+	"base/leaf/network/json"
 )
 
 // 使用 Protobuf 消息处理器
-var Processor = protobuf.NewProcessor()
+var Processor = json.NewProcessor()
+
 
 func init() {
 	// 这里我们注册了消息 Hello
-	Processor.Register(&Sync{}) // id:1
-	Processor.Register(&Broadcast{}) // id:2
+	Processor.Register(&HelloT{})
 }

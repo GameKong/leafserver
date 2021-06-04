@@ -4,6 +4,7 @@ import (
 	"base/leaf/chanrpc"
 	"base/leaf/log"
 	"base/leaf/network"
+	"fmt"
 	"net"
 	"reflect"
 	"time"
@@ -98,6 +99,8 @@ func (a *agent) Run() {
 		}
 
 		if a.gate.Processor != nil {
+			fmt.Printf("收到：%s\n", string(data))
+
 			msg, err := a.gate.Processor.Unmarshal(data)
 			if err != nil {
 				log.Debug("unmarshal message error: %v", err)
